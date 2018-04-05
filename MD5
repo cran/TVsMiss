@@ -1,6 +1,6 @@
-11e6d125db290b0bccb1dd25151409cd *DESCRIPTION
+a1fde00745f25799738da99341ec82e4 *DESCRIPTION
 9374145715de7b4bd53ddfbeab56074c *NAMESPACE
-052446e60e82639d34944f0baa65233f *NEWS.md
+274f5ff20ab3d9eaec183517bc239e2c *NEWS.md
 65945fb4452d84c48170b7c25f8ba264 *R/TVsMiss.R
 8014183779578cb73d5a8fcd85bb581b *R/cv_logistic_prepare.R
 e73e0b81d21526575e7da714e74a7464 *R/function_archive.R
@@ -23,7 +23,7 @@ f1cc1839d0f7ad8023e62020c28e8c04 *R/selection_sBICultrahigh.R
 df4e580585af2274e057d781070642e8 *man/pairdata.Rd
 22a4b61edfc05f6bf66b74aadc2fc4d4 *man/plot.TVsMiss.Rd
 2b23e7db9ca1af3844ebe0746e63d54b *man/tvsmiss.Rd
-8b0ef34d4059c2f2f0d8514eba708a57 *src/binomial.c
+f0de504c27a6de3e31687919247c89c1 *src/binomial.c
 d5149de7a3015e914e818bba7d013b48 *src/loglikelihood.c
 11543ea0f53925314ed9f412788af4e1 *src/maxprod.c
 c82252a8bbb8d86080b42006094a4e0a *src/ncvint.c
